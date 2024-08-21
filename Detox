@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juicing Recipes and Benefits</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(120deg, #f6d365, #fda085);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff6f61;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 28px;
+            margin-top: 40px;
+        }
+        .recipe, .benefit {
+            background-color: #ffffffb3;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #ff6f61;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Juicing for Health and Happiness</h1>
+    </header>
+
+    <div class="container">
+        <h2>Benefits of Juicing</h2>
+        <div class="benefit">
+            <p><strong>Boosts Immunity:</strong> Fresh juices are packed with vitamins and minerals that strengthen your immune system.</p>
+        </div>
+        <div class="benefit">
+            <p><strong>Improves Digestion:</strong> Juices are easy on the digestive system, allowing your body to absorb nutrients more efficiently.</p>
+        </div>
+        <div class="benefit">
+            <p><strong>Enhances Energy:</strong> The natural sugars in fruits and vegetables provide a quick and healthy energy boost.</p>
+        </div>
+
+        <h2>Juice Recipes</h2>
+        <div class="recipe">
+            <h3>Green Detox Juice</h3>
+            <p><strong>Ingredients:</strong> 1 cucumber, 2 celery stalks, 1 green apple, 1 handful of spinach, juice of 1 lemon.</p>
+            <p><strong>Instructions:</strong> Blend all ingredients together until smooth. Serve chilled.</p>
+        </div>
+        <div class="recipe">
+            <h3>Carrot-Orange Delight</h3>
+            <p><strong>Ingredients:</strong> 4 carrots, 2 oranges, 1-inch piece of ginger.</p>
+            <p><strong>Instructions:</strong> Juice the carrots and oranges. Add ginger and mix well. Serve fresh.</p>
+        </div>
+        <div class="recipe">
+            <h3>Berry Blast Juice</h3>
+            <p><strong>Ingredients:</strong> 1 cup of mixed berries (strawberries, blueberries, raspberries), 1 apple, 1/2 cup of water.</p>
+            <p><strong>Instructions:</strong> Blend all ingredients until smooth. Add more water if needed. Enjoy!</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Stay healthy and refreshed with daily juicing!</p>
+    </footer>
+</body>
+</html>
